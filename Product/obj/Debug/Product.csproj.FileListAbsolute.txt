@@ -1,0 +1,8 @@
+B:\OOP\Lab_5\Product\bin\Debug\Product.exe.config
+B:\OOP\Lab_5\Product\bin\Debug\Product.exe
+B:\OOP\Lab_5\Product\bin\Debug\Product.pdb
+B:\OOP\Lab_5\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+B:\OOP\Lab_5\Product\obj\Debug\Product.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_5\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_5\Product\obj\Debug\Product.exe
+B:\OOP\Lab_5\Product\obj\Debug\Product.pdb
